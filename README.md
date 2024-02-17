@@ -5,7 +5,7 @@ How it works:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kWE9mbjHXgQ/0.jpg)](https://www.youtube.com/watch?v=kWE9mbjHXgQ)
 
-How much does its cost:
+How much does it cost:
 
 ![Screenshot_20240109-111513](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/8c1e9c02-d0b5-4b3e-9783-cd3f1fd75339)
 
