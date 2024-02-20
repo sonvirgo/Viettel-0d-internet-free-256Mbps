@@ -1,4 +1,4 @@
-Thanks and inspire from this fork https://github.com/sonvirgo/meek
+Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 # 4G-Circumvent
 Sell 4G app to circumvent prohibit to free internet 
 
