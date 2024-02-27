@@ -1,6 +1,6 @@
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 # 4G-Circumvent
-Sell 4G app to circumvent prohibit to free internet 
+Sell 4G app to circumvent the prohibition to the internet 
 
 How it works:
 
