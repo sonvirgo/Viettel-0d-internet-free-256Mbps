@@ -1,6 +1,6 @@
-Tốc độ 2Mbps -> 150k
+Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
-Tốc độ 54Mbps -> 550k 
+Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM.
 
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
