@@ -1,4 +1,4 @@
-®™© 2014-2020 Vỉgo Sun
+®™©2014-2020 Virgo Sun +84-387554874.
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
