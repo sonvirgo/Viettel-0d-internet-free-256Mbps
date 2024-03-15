@@ -1,3 +1,6 @@
+Tôc độ 2Mbps -> 150k
+Tôc độ 54Mbps -> 550k 
+
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
 # 4G-Circumvent
