@@ -49,7 +49,7 @@ How much does it cost:
 ![422624776_3273179519653359_431070138987956855_n](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/d17d6254-0e7a-4892-927a-eae805874f63)
 
 ![image](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/10d3d73f-0a50-4977-b1c0-577975c9921a)
-![image](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/bcc7bbf0-549e-49d2-afca-3b1e93cd78a6)
+
 ![image](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/fcbc9c30-4ef3-479c-bf32-f0aae8c8e2af)
 
 ![image](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/fb6073b2-2574-4e4a-98c1-98da58e06459)
