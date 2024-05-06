@@ -15,6 +15,7 @@ Sell 4G app to circumvent the prohibition to the internet
 
 How it works:
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JdcoDcOBtCI/0.jpg)](https://www.youtube.com/watch?v=JdcoDcOBtCI)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kWE9mbjHXgQ/0.jpg)](https://www.youtube.com/watch?v=kWE9mbjHXgQ)
 
 How other FAKE:
