@@ -10,7 +10,7 @@ Thanks to the Tor BSD Diversity Project  and inspire from this fork https://gith
 Currently 1 tunnel has a speed of ~ 1Mbps.
 By multiplex aka MUX tunnels, we get a higher speed.
 The key price therefore base on number of muxed tunnels.
-Basic key include 3 tunnels .~ 150k
+Basic key include 3 tunnels .~ 150k.
 Muxed tunnels can reach practically as many as 72 tunnels tested ~ 550k
 Theory number of tunnels to multiplex is limited by int64 value aka ~ 64k tunnels.
 But in practical , MAX SPEED is limited varies according to actual ISP 4G geo-location.
