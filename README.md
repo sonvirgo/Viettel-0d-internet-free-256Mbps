@@ -6,6 +6,23 @@
 
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
+Why TunnelsMux?
+Currently 1 tunnel has a speed of ~ 1Mbps.
+By multiplex aka MUX tunnels, we get a higher speed.
+The key price therefore base on number of muxed tunnels.
+Basic key include 3 tunnels .~ 150k
+Muxed tunnels can reach practically as many as 72 tunnels tested ~ 550k
+Theory number of tunnels to multiplex is limited by int64 value aka ~ 64k tunnels.
+But in practical , MAX SPEED is limited varies according to actual ISP 4G geo-location.
+For Viettel - 65Mbps reached with strong 4G signal ~ -100dbm
+This TunnelsMux app EXPLOITS the ISP network through MEEK protocol.
+The app exposes a tunneled port to your VPN app of choice.
+Without an authorization key, app runs in TRIAL mode.
+Tunneled port DISCONNECTED and CHANGED every 1 MINUTE.
+To activate app to FIXED tunneled port UNINTERRUPTED. Contact the author!!!!
+Thanks to all the loyalty customers so far! :D
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gNp4vhKzqIo/0.jpg)](https://www.youtube.com/watch?v=gNp4vhKzqIo)
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/17d2bacb-67b2-4087-8379-b2f8551fce08)
 <img width="762" alt="image" src="https://github.com/sonvirgo/4G-Circumvent/assets/10823037/a81915c6-4b58-4eb6-b931-35bf0df1c1dd">
