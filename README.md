@@ -6,7 +6,8 @@
 
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
-```Why TunnelsMux?
+```
+Why TunnelsMux?
 Currently 1 tunnel has a speed of ~ 1Mbps.
 By multiplex aka MUX tunnels, we get a higher speed.
 The key price therefore base on number of muxed tunnels.
@@ -20,7 +21,8 @@ The app exposes a tunneled port to your VPN app of choice.
 Without an authorization key, app runs in TRIAL mode.
 Tunneled port DISCONNECTED and CHANGED every 1 MINUTE.
 To activate app to FIXED tunneled port UNINTERRUPTED. Contact the author!!!!
-Thanks to all the loyalty customers so far! :D```
+Thanks to all the loyalty customers so far! :D
+```
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gNp4vhKzqIo/0.jpg)](https://www.youtube.com/watch?v=gNp4vhKzqIo)
