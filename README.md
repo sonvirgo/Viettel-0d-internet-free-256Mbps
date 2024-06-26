@@ -16,6 +16,7 @@ Muxed tunnels can reach practically as many as 72 tunnels tested ~ 550k
 Theory number of tunnels to multiplex is limited by int64 value aka ~ 64k tunnels.
 But in practical , MAX SPEED is limited varies according to actual ISP 4G geo-location.
 For Viettel - 65Mbps reached with strong 4G signal ~ -100dbm
+Why some Termux scammer may twll you 100 cores etc, all is not only wasting resources also blocking your usful data channel.
 This TunnelsMux app EXPLOITS the ISP network through MEEK protocol.
 The app exposes a tunneled port to your VPN app of choice.
 Without an authorization key, app runs in TRIAL mode.
