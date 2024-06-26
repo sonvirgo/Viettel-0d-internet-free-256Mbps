@@ -17,7 +17,7 @@ Theory number of tunnels to multiplex is limited by int64 value aka ~ 64k tunnel
 But in practical , MAX SPEED is limited varies according to actual ISP 4G geo-location.
 For Viettel - 65Mbps reached with strong 4G signal ~ -100dbm
 Whistle some Termux scammer may tell you about 100 cores etc, all is not only wasting resources also blocking your useful data channel..
-Moreove, TUNNNELS programming is lightweight compared to simply changeing Brainfuck Psiphon EXECUTE cores like scammer are doing.
+Moreove, TUNNELS  programming is lightweight compared to simply changeing Brainfuck Psiphon EXECUTE cores like scammers are doing.
 This TunnelsMux app EXPLOITS the ISP network through MEEK protocol.
 The app exposes a tunneled port to your VPN app of choice.
 Without an authorization key, app runs in TRIAL mode.
