@@ -1,6 +1,8 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
-1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
+[![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/Viettel-0-internet-free-32Mbps/total.svg)]()
+
+1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 3Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM.
 
