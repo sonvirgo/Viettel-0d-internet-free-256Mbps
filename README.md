@@ -1,5 +1,17 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
+Share internet by LAN or Wifi Hotspot -> Http proxy shared IP4 address: port 9000
+
+Comfortable iPhone GUI app file ipa, sideload by TrollStore, E-Sign, AltStore, turn on VPN app ShadowRockets
+
+Comfortable Android GUI app file apk, turn on VPN app SocksDroid
+
+Powerful Windows amd64 app CLI file exe
+
+Convenience macOS amd64 app CLI terminal
+
+Last minute not recommended Linux arm64 app CLI terminal/termux
+
 [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/Viettel-0-internet-free-32Mbps/total.svg)]()
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 3Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
