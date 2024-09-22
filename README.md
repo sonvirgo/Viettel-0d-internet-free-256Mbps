@@ -1,5 +1,7 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
+Chính chủ, độc quyền TQ
+
 # Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới/crack app
 
 Share internet by LAN or Wifi Hotspot -> Http proxy shared IP4 address: port 9000
