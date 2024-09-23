@@ -6,7 +6,7 @@ Chính chủ, độc quyền TQ
 
 Share internet by LAN or Wifi Hotspot -> Http proxy shared IP4 address: port 9000
 
-Comfortable iPhone GUI app file ipa, sideload by TrollStore, E-Sign, AltStore, turn on VPN app ShadowRockets
+Comfortable iPhone GUI app file ipa, sideload by TrollStore, SideStore, Sideloadly, Scartlet, Installonair.com E-Sign, AltStore, turn on VPN app ShadowRockets
 
 Comfortable Android GUI app file apk, turn on VPN app SocksDroid
 
