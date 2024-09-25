@@ -2,8 +2,7 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
 Chính chủ, độc quyền TQ
 
-# Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới/crack app
-
+[# Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới/crack app](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.2/TunnelsMux-arm64.zip)
 Share internet by LAN or Wifi Hotspot -> Http proxy shared IP4 address: port 9000
 
 Comfortable iPhone GUI app file ipa, sideload by TrollStore, SideStore, Sideloadly, Scartlet, Installonair.com, E-Sign, AltStore, turn on VPN app ShadowRockets
