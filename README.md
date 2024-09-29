@@ -1,6 +1,6 @@
-Chào ®™©2014-2020 Virgo Sun +84-387554874.
+Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
 
-Chính chủ, độc quyền TQ
+Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm thời xóa toàn bộ app GUI 64 tunnels Android releases apk, do xuất hiện app crack, giả nhái, HACK BANKING. KH cần  mua app Android liên hệ trực tiếp)
 
 ![z5871172720812_30c7dbe9c871e8bfdb6ba74c3e9785c0](https://github.com/user-attachments/assets/415a6a09-d59b-4a34-a438-b79ef8e7039c)
 ![z5875178169379_345004fb97fd15c1a6fce1865e93a722](https://github.com/user-attachments/assets/5732ba33-8559-4a9d-8660-2c1f32d844c5)
