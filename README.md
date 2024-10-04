@@ -6,7 +6,7 @@ Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm 
 ![z5875178169379_345004fb97fd15c1a6fce1865e93a722](https://github.com/user-attachments/assets/5732ba33-8559-4a9d-8660-2c1f32d844c5)
 ![z5875292784911_92b3e51f562a1c6955015849696b1ca3](https://github.com/user-attachments/assets/c56fce1e-ec22-4876-a639-4ce5070a2df8)
 ![z5875272900096_2b761f44a2e193d7ead61eab94d64d59](https://github.com/user-attachments/assets/c4039ef2-4c5f-422e-8de2-35bb87a0bb7c)
-# [Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới/crack app](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.2/TunnelsMux-arm64.zip)
+# [Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới (not 125.235.36.177) /crack app](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.2/TunnelsMux-arm64.zip)
 
 Share internet by LAN or Wifi Hotspot -> Http proxy shared IP4 address: port 9000
 
