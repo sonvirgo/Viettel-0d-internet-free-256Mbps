@@ -1,7 +1,9 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
 
 Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm thời xóa toàn bộ app GUI Android và ko publish 5G Ready 72->256 tunnels Android releases apk v1.0.5 VVIP, do xuất hiện app crack, giả nhái, HACK BANKING. KH cần  mua app Android liên hệ trực tiếp. App iPhone KH tự tải trong mục release)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GOnzP-AcFpY/0.jpg)](https://www.youtube.com/watch?v=GOnzP-AcFpY)
+
 ![z5871172720812_30c7dbe9c871e8bfdb6ba74c3e9785c0](https://github.com/user-attachments/assets/415a6a09-d59b-4a34-a438-b79ef8e7039c)
 ![z5875178169379_345004fb97fd15c1a6fce1865e93a722](https://github.com/user-attachments/assets/5732ba33-8559-4a9d-8660-2c1f32d844c5)
 ![z5875292784911_92b3e51f562a1c6955015849696b1ca3](https://github.com/user-attachments/assets/c56fce1e-ec22-4876-a639-4ce5070a2df8)
