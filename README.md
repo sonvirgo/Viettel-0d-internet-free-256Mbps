@@ -1,6 +1,6 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
 
-Chúng tối ko bán SIM, sim Viettel bất kỳ KH đang sử dụng. Cài app để vào Internet. Chúng tôi ko cho không app miễn phí. Mua app phải trả phí. App miễn phí chỉ DEMO chứng minh vào được Internet. 
+Ko cần server cá nhânnhân, sim Viettel bất kỳ KH đang sử dụng. Cài app để vào Internet. Chúng tôi ko cho không app miễn phí. Mua app phải trả phí. App miễn phí chỉ DEMO chứng minh vào được Internet. 
 
 # [Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới (not 125.235.36.177) /crack app](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.2/TunnelsMux-arm64.zip)
 
@@ -30,9 +30,9 @@ Last minute not recommended Linux arm64 app CLI terminal/termux
 
 [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/Viettel-0-internet-free-32Mbps/total.svg)]()
 
-1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 3Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
+App bán theo số SIM của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 3Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
-1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM.
+App bán theo số SIM của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM.
 
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
