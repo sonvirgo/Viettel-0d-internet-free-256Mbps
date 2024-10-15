@@ -2,6 +2,9 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ 
 
 Chúng tối ko bán SIM, sim Viettel bất kỳ KH đang sử dụng. Cài app để vào Internet. Chúng tôi ko cho không app miễn phí. Mua app phải trả phí. App miễn phí chỉ DEMO chứng minh vào được Internet. 
 
+# [Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới (not 125.235.36.177) /crack app](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.2/TunnelsMux-arm64.zip)
+
+
 Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm thời xóa toàn bộ app GUI Android và ko publish 5G Ready 72->256 tunnels Android releases apk v1.0.5 VVIP, do xuất hiện app crack, giả nhái, HACK BANKING. KH cần  mua app Android liên hệ trực tiếp. App iPhone KH tự tải trong mục release v1.0.2)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GOnzP-AcFpY/0.jpg)](https://www.youtube.com/watch?v=GOnzP-AcFpY)
@@ -12,7 +15,6 @@ Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm 
 ![z5925874421290_8aeefae0872fc7d2ed1e3f8167f9d77c](https://github.com/user-attachments/assets/c55aac7a-0f8b-45e9-85fd-cf409a2c319b)
 
 ![z5875272900096_2b761f44a2e193d7ead61eab94d64d59](https://github.com/user-attachments/assets/c4039ef2-4c5f-422e-8de2-35bb87a0bb7c)
-# [Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới (not 125.235.36.177) /crack app](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.2/TunnelsMux-arm64.zip)
 
 Share internet by LAN or Wifi Hotspot -> Http proxy shared IP4 address: port 9000
 
