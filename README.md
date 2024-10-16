@@ -10,10 +10,11 @@ Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm 
 Nguyên lý hoạt động vĩnh viễn
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GOnzP-AcFpY/0.jpg)](https://www.youtube.com/watch?v=GOnzP-AcFpY)
-
-.ột số khách hàng tiêu biểu, trong số hàng ngìn khách hàng đã sủ dụng.
-
 ![z5871172720812_30c7dbe9c871e8bfdb6ba74c3e9785c0](https://github.com/user-attachments/assets/415a6a09-d59b-4a34-a438-b79ef8e7039c)
+
+Một số khách hàng tiêu biểu, trong số hàng ngìn khách hàng đã sủ dụng.
+
+
 ![z5875178169379_345004fb97fd15c1a6fce1865e93a722](https://github.com/user-attachments/assets/5732ba33-8559-4a9d-8660-2c1f32d844c5)
 ![z5875292784911_92b3e51f562a1c6955015849696b1ca3](https://github.com/user-attachments/assets/c56fce1e-ec22-4876-a639-4ce5070a2df8)
 ![z5925874421290_8aeefae0872fc7d2ed1e3f8167f9d77c](https://github.com/user-attachments/assets/c55aac7a-0f8b-45e9-85fd-cf409a2c319b)
