@@ -7,7 +7,11 @@ Ko cần server cá nhân, SIM Viettel bất kỳ KH đang sử dụng. Cài app
 
 Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm thời xóa toàn bộ app GUI Android và ko publish 5G Ready 72->256 tunnels Android releases apk v1.0.5 VVIP, do xuất hiện app crack, giả nhái, HACK BANKING. KH cần  mua app Android liên hệ trực tiếp. App iPhone KH tự tải trong mục release v1.0.2)
 
+Nguyên lý hoạt động vĩnh viễn
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GOnzP-AcFpY/0.jpg)](https://www.youtube.com/watch?v=GOnzP-AcFpY)
+
+.ột số khách hàng tiêu biểu, trong số hàng ngìn khách hàng đã sủ dụng.
 
 ![z5871172720812_30c7dbe9c871e8bfdb6ba74c3e9785c0](https://github.com/user-attachments/assets/415a6a09-d59b-4a34-a438-b79ef8e7039c)
 ![z5875178169379_345004fb97fd15c1a6fce1865e93a722](https://github.com/user-attachments/assets/5732ba33-8559-4a9d-8660-2c1f32d844c5)
