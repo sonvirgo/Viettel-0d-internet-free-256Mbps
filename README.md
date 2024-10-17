@@ -1,3 +1,4 @@
+## TẶNG KEY MIỄN PHÍ CHO MỖI AI SHOW 01 SỔ ĐỎ CHÍNH CHỦ
 Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
 
 Ko cần server cá nhân, SIM Viettel bất kỳ KH đang sử dụng. Cài app để vào Internet. Chúng tôi ko cho không app miễn phí. Mua app phải trả phí. Là chi phí scan SNI và phát triển phần mềm nhiều tunnels.  App miễn phí chỉ DEMO chứng minh vào được Internet. Những kẻ cặn bã xã hội ngu dốt, chờ ăn sẵn FREE, ăn cắp app, hack app, mod app, by pass authen v.v. sẽ không được chào đón!!!
