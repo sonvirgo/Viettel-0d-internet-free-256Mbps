@@ -1,4 +1,4 @@
-(repo upload lại sau khị bị github staffs disable)
+(repo upload lại sau khị bị github staffs disable do bóc phót tml thuan456 kkk😅)
 ## TẶNG KEY MIỄN PHÍ CHO MỖI AI SHOW 01 SỔ ĐỎ CHÍNH CHỦ
 Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
 
