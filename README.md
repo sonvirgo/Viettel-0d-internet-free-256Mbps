@@ -42,7 +42,7 @@ Last minute not recommended Linux arm64 app CLI terminal/termux
 
 App bán theo số SIM của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 3Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
-App bán theo số SIM của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM.
+App bán theo số SIM của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k(KM còn 150k) /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM.
 
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
