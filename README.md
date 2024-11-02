@@ -1,3 +1,5 @@
+App chính chủ độc quyền TQ VVIP 10% tinh hoa
+90% cặn bã gocmod, voz, ĐHCN HN ... -> cút :D
 (repo upload lại sau khị bị github staffs disable do bóc phốt tml thuan567 kkk😅)
 # TẶNG KEY MIỄN PHÍ CHO MỖI KH SHOW 01 SỔ ĐỎ CHÍNH CHỦ
 Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
