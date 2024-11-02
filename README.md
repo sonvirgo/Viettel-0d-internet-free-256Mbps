@@ -13,7 +13,8 @@ Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm 
 
 Nguyên lý hoạt động vĩnh viễn
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GOnzP-AcFpY/0.jpg)](https://www.youtube.com/watch?v=GOnzP-AcFpY)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nsCo-GHZZRI/0.jpg)](https://www.youtube.com/watch?v=nsCo-GHZZRI)
 ![z5871172720812_30c7dbe9c871e8bfdb6ba74c3e9785c0](https://github.com/user-attachments/assets/415a6a09-d59b-4a34-a438-b79ef8e7039c)
 
 Một số khách hàng tiêu biểu, trong số hàng ngìn khách hàng đã sủ dụng.
