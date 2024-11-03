@@ -9,7 +9,8 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ 
 
 Mạng Psiphon ko cần server cá nhân, SIM Viettel bất kỳ 0 nền 0 đ  KH đang sử dụng. Cài app để vào Internet. Chúng tôi ko cho không app miễn phí. Mua app phải trả phí. Là chi phí scan SNI 125.235.36.177, (123.235.36.219 Piphon đã dừng thuê bao) và phát triển phần mềm GUI nhiều (up to 256) tunnels, 
 #  Tested app  mobile OOKLA SpeedTest Multi > 20Mbps 😂  
-App miễn phí chỉ DEMO chứng minh vào được Internet. Những kẻ cặn bã xã hội ngu dốt, chờ ăn sẵn FREE, ăn cắp app, ăn cắp SNI, crack app, hack app, mod app, by pass authen v.v. sẽ không được chào đón!!!
+App miễn phí chỉ DEMO chứng minh vào được Internet. Những kẻ cặn bã xã hội ngu dốt, chờ ăn sẵn FREE, ăn cắp app, ăn cắp SNI, crack app, hack app, mod app, by pass authen v.v. sẽ không được chào đón!!! Cái gì cũng phải trả giá 🤣![z5996546229497_401b35ae5bf426b6ebf6196015cfe0a2](https://github.com/user-attachments/assets/5f145477-a123-4819-a672-43d94e9977e0)
+
 
 # [Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới (not 125.235.36.177) 123.235.36.219 (Piphon đã dừng thuê bao)  /crack app](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.2/TunnelsMux-arm64.zip)
 
