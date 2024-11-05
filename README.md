@@ -5,7 +5,7 @@ App iOS iPhone chính chủ độc quyền TQ VVIP phát triền bởi 10% tinh 
 # TẶNG KEY MIỄN PHÍ CHO MỖI KH SHOW 01 SỔ ĐỎ CHÍNH CHỦ
 Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
 
-# Ai ko có sổ đỏ, cam kết ko ắn cắp SNI + crack authen, đồng giá 150k 64-> 256 tunnels kkkk 😜 IPhone iOS 
+# Ai ko có sổ đỏ, cam kết ko ắn cắp SNI + crack authen, đồng giá 150k 64-> 256 tunnels kkkk 😜 iPhone iOS 
 
 Mạng Psiphon ko cần server cá nhân, SIM Viettel bất kỳ 0 nền 0 đ  KH đang sử dụng. Cài app để vào Internet. Chúng tôi ko cho không app miễn phí. Mua app phải trả phí. Là chi phí scan SNI 125.235.36.177, (123.235.36.219 Piphon đã dừng thuê bao) và phát triển phần mềm GUI nhiều (up to 256) tunnels, 
 #  Tested app  mobile OOKLA SpeedTest Multi > 20Mbps 😂  
