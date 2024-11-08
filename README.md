@@ -6,6 +6,12 @@ App iOS iPhone chính chủ độc quyền TQ VVIP phát triền bởi 10% tinh 
 File IPA iOS iPhone KH tự cài. Chỉ LH chính chủ 0387554874 để mua KEY.
 iPhone, iOS, ko cần gói nền, Hack 4G Psiphon, 256 luồng, fix tự chịu, độc quyền TQ duy nhất app 1-0-2, thanh toán trước mua key 150k. hỏi nhiều -> cút
 
+App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 3Mbps -> 150k / 1 KEY.  Ko limit dung lượng. Đến khi hỏng máy.
+
+App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k(KM còn 150k) /1 KEY. Ko limit dung lượng. Đến khi hỏng máy.
+
+App hack ko bán qua CH Play, Apple Store. KH reset máy, cài lại máy phải mua key mới.
+
 # TẶNG KEY MIỄN PHÍ CHO MỖI KH SHOW 01 SỔ ĐỎ CHÍNH CHỦ
 Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
 
@@ -33,7 +39,27 @@ xài hack 0đ 0 nền Viettel -> SNI (meek) 125.235.36.177 , 125.235.36.219 (d�
 Một số khách hàng tiêu biểu, trong số hàng ngìn khách hàng đã sủ dụng.
 
 
-![reset máy mất dữ liệu app trong máy, phải mua lại key.
+![z5875178169379_345004fb97fd15c1a6fce1865e93a722](https://github.com/user-attachments/assets/5732ba33-8559-4a9d-8660-2c1f32d844c5)
+![z5875292784911_92b3e51f562a1c6955015849696b1ca3](https://github.com/user-attachments/assets/c56fce1e-ec22-4876-a639-4ce5070a2df8)
+![z5925874421290_8aeefae0872fc7d2ed1e3f8167f9d77c](https://github.com/user-attachments/assets/c55aac7a-0f8b-45e9-85fd-cf409a2c319b)
+![z5933094843464_517a76809fe34de78a8c8c9f05c1744d](https://github.com/user-attachments/assets/e29e5e58-ab39-41c7-a816-a9ad3112fb27)
+
+![z5875272900096_2b761f44a2e193d7ead61eab94d64d59](https://github.com/user-attachments/assets/c4039ef2-4c5f-422e-8de2-35bb87a0bb7c)
+
+Share internet by LAN or Wifi Hotspot -> Http proxy shared IP4 address: port 9000
+
+Comfortable iPhone GUI app file ipa, sideload by TrollStore, SideStore, Sideloadly, Scartlet, Installonair.com, E-Sign, AltStore, turn on VPN app ShadowRockets
+
+Comfortable Android GUI app file apk, turn on VPN app SocksDroid
+
+Powerful Windows amd64 app CLI file exe
+
+Convenience macOS amd64 app CLI terminal
+
+Last minute not recommended Linux arm64 app CLI terminal/termux
+
+[![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/Viettel-0-internet-free-32Mbps/total.svg)]()
+
 
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
