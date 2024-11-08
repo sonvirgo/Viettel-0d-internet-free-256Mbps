@@ -3,6 +3,7 @@ App iOS iPhone chính chủ độc quyền TQ VVIP phát triền bởi 10% tinh 
 90% cặn bã XH gocmod, voz, ĐHCN HN ... -> cút 😂
 (repo upload lại sau khị bị github staffs disable do bóc phốt tml thuan567, súc vật  voz mod Floren kkk😅)
 
+File IPA iOS iPhone KH tự cài. Chỉ LH chính chủ 0387554874 để mua KEY.
 iPhone, iOS, ko cần gói nền, Hack 4G Psiphon, 256 luồng, fix tự chịu, độc quyền TQ duy nhất app 1-0-2, thanh toán trước 150k. hỏi nhiều -> cút
 
 # TẶNG KEY MIỄN PHÍ CHO MỖI KH SHOW 01 SỔ ĐỎ CHÍNH CHỦ
