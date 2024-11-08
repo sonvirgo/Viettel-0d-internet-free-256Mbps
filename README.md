@@ -54,9 +54,9 @@ Last minute not recommended Linux arm64 app CLI terminal/termux
 
 [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/Viettel-0-internet-free-32Mbps/total.svg)]()
 
-App bán theo số SIM của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 3Mbps -> 150k / 1 KEY.  Ko limit dung lượng. Đến khi hỏng SIM.
+App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 3Mbps -> 150k / 1 KEY.  Ko limit dung lượng. Đến khi hỏng máy.
 
-App bán theo số SIM của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k(KM còn 150k) /1 KEY. Ko limit dung lượng. Đến khi hỏng SIM.
+App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k(KM còn 150k) /1 KEY. Ko limit dung lượng. Đến khi hỏng máy.
 
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
