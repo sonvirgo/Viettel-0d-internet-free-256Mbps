@@ -10,7 +10,7 @@ App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 
 
 App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k(KM còn 150k) /1 KEY. Ko limit dung lượng. Đến khi hỏng máy.
 
-App hack ko bán qua CH Play, Apple Store. KH reset máy, cài lại máy phải mua key mới.
+App hack ko bán qua CH Play, Apple Store. KH reset máy, cài lại máy,  cài lại app v.v mất authen, phải mua key mới.
 
 Nguyên lý hoạt động vĩnh viễn
 
