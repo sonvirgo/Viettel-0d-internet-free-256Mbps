@@ -12,6 +12,8 @@ App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 
 
 App hack ko bán qua CH Play, Apple Store. KH reset máy, cài lại máy,  cài lại app v.v mất authen, phải mua key mới.
 
+Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm thời xóa toàn bộ app GUI Android và ko publish 5G Ready 72->256 tunnels Android releases apk v1.0.5 VVIP, do xuất hiện app crack, giả nhái, HACK BANKING. KH cần  mua app Android liên hệ trực tiếp. App iPhone KH tự tải trong mục release v1.0.2)
+
 Nguyên lý hoạt động vĩnh viễn
 
 xài hack 0đ 0 nền Viettel -> SNI (meek) 125.235.36.177 , 125.235.36.219 (dừng tb),... -> Psiphon ->Web
@@ -43,7 +45,7 @@ App miễn phí chỉ DEMO chứng minh vào được Internet. Những kẻ c�
 # [Thưởng/Award 5.000.000VND ~ 200$ nếu scan được SNI mới (not 125.235.36.177) 123.235.36.219 (Piphon đã dừng thuê bao)  /crack app](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.2/TunnelsMux-arm64.zip)
 
 
-Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm thời xóa toàn bộ app GUI Android và ko publish 5G Ready 72->256 tunnels Android releases apk v1.0.5 VVIP, do xuất hiện app crack, giả nhái, HACK BANKING. KH cần  mua app Android liên hệ trực tiếp. App iPhone KH tự tải trong mục release v1.0.2)
+
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nsCo-GHZZRI/0.jpg)](https://www.youtube.com/watch?v=nsCo-GHZZRI) 
 ![IMG_20241102_233800](https://github.com/user-attachments/assets/c6d6ed78-bb25-46fa-ae89-bb13b2c7e6b3)
