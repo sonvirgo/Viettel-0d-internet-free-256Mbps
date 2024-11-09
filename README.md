@@ -34,8 +34,6 @@ Convenience macOS amd64 app CLI terminal
 
 Last minute not recommended Linux arm64 app CLI terminal/termux
 
-[![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/Viettel-0-internet-free-32Mbps/total.svg)]()
-
 # TẶNG KEY MIỄN PHÍ CHO MỖI KH SHOW 01 SỔ ĐỎ CHÍNH CHỦ
 Chào ®™©2014-2020 Virgo Sun +84-387554874. KH mua app tải app liên hệ trực tiếp.
 
