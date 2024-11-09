@@ -1,5 +1,9 @@
 App iOS iPhone chính chủ độc quyền TQ VVIP phát triền bởi 10% tinh hoa, dành cho 10% tinh hoa, có 1-0-2, chuyên nghiệp, độc đáo!!!
 
+https://github.com/sonvirgo/iOS-iPhone-4G-Viettel-0nen-0limit-256Mbps-hack-Psiphon/releases/tag/v1.0.2
+
+[![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/Viettel-0-internet-free-32Mbps/total.svg)]()
+
 90% cặn bã XH gocmod, voz, ĐHCN HN ... -> cút 😂
 (repo upload lại sau khị bị github staffs disable do bóc phốt tml thuan567, súc vật  voz mod Floren kkk😅)
 
