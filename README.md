@@ -17,6 +17,9 @@ Bước 1: tải và cài file tương ứng với thiết bị, link tải ở 
         Windows -> EXE
         macOS -> Darwin
         Linux/Termux -> arm
+```
+# KH đang xài hack Termux 1 luồng tự so sánh, tải app OOKLA SpeedTest ko lên nổi 10Mbps
+```
 Bước 2: nhập KEY bản quyền (liên hệ tá giả)
 Bước 3: cấu hình VPN (liên hệ tác giả)
 HẾT
