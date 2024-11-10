@@ -44,6 +44,8 @@ App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 
 
 App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k(KM còn 150k) /1 KEY. Ko limit dung lượng. Đến khi hỏng máy.
 
+# KH tự so sánh giá, 150k dùng vĩnh viễn ko cần mua gói hack theo tháng, so với, 30k /1 tháng nền TT, LQ, FB, YT.. + 30k / tháng gói hack 
+
 App hack ko bán qua CH Play, Apple Store. KH reset máy, cài lại máy,  cài lại app v.v mất authen, phải mua key mới.
 
 Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm thời xóa toàn bộ app GUI Android và ko publish 5G Ready 72->256 tunnels Android releases apk v1.0.5 VVIP, do xuất hiện app crack, giả nhái, HACK BANKING. KH cần  mua app Android liên hệ trực tiếp. App iPhone KH tự tải trong mục release v1.0.2)
