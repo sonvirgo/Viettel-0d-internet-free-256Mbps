@@ -25,12 +25,12 @@ HẾT
 ```
 MN trước khi mua Hack nên tìm hiểu, khỏi mang tiếng NGU
 1. Ko phải Hack tất cả các mạng là như nhau.
- Hack mạng Vina khác hack mạng Viettel khác hack mạng Mobi
-2.. Ko phải hack cùng 1 mạng là như nhau
-Hack nền LQ khác hack nền TT khác Hack 0 nền
+    Hack mạng Vina khác hack mạng Viettel khác hack mạng Mobi
+2. Ko phải hack cùng 1 mạng là như nhau
+   Hack nền LQ khác hack nền TT khác Hack 0 nền
 3. Ko phải tất cả bị fix như nhau
-Do hack khác mạng, khác nền, 0 nền khác nhau.
-Nên có cái bị fix cái ko
+   Do hack khác mạng, khác nền, 0 nền khác nhau.
+   Nên có cái bị fix cái ko
 HẾT
 ```
 
