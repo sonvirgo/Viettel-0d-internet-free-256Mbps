@@ -18,7 +18,8 @@ Hướng dẫn cho những người dùng ko biết cách cài app:
            Linux/Termux -> arm\
 Bước 2: nhập KEY bản quyền (liên hệ tá giả)\
 Bước 3: cấu hình VPN (liên hệ tác giả)\
-HẾT```
+HẾT
+```
 
 90% cặn bã XH gocmod, voz, ĐHCN HN ... -> cút 😂
 (repo upload lại sau khị bị github staffs disable do bóc phốt tml thuan567, súc vật  voz mod Floren kkk😅)
