@@ -51,6 +51,9 @@ App bán theo số lần cài của KH. 1 app duy nhất WYSIWYG. Viettel 0đ 0 
 
 App hack ko bán qua CH Play, Apple Store. KH reset máy, cài lại máy,  cài lại app v.v mất authen, phải mua key mới.
 
+Khách hàng lom dom có thể tự gõ địa chỉ SNI 125.235.36.177 vào trình duyệt, kiểm tra máy có thể hack mạng hay không, nếu có kết nối SNI là ok
+![BUG-UP](https://github.com/user-attachments/assets/e4df4a1f-7ea2-498c-bcca-84d769201477)
+
 Chính chủ, độc quyền TQ (để đảm bảo an toàn cho KH, repo tạm thời xóa toàn bộ app GUI Android và ko publish 5G Ready 72->256 tunnels Android releases apk v1.0.5 VVIP, do xuất hiện app crack, giả nhái, HACK BANKING. KH cần  mua app Android liên hệ trực tiếp. App iPhone KH tự tải trong mục release v1.0.2)
 
 Nguyên lý hoạt động vĩnh viễn
