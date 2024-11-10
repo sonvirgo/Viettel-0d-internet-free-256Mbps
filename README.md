@@ -11,7 +11,7 @@ https://github.com/sonvirgo/iOS-iPhone-4G-Viettel-0nen-0limit-256Mbps-hack-Psiph
 Hướng dẫn cho những người dùng ko biết cách cài app:
 
 ```
-Bước 1: tải và cài file tương ứng với thiết bị, link tải cuối trang
+Bước 1: tải và cài file tương ứng với thiết bị, link tải ở trên
         iOS -> IPA
         Android -> APK        
         Windows -> EXE
