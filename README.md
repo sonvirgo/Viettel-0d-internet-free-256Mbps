@@ -13,12 +13,17 @@ Hướng dẫn cho những người dùng ko biết cách cài app:
 ```
 Bước 1: tải và cài file tương ứng với thiết bị, link tải ở trên
         iOS -> IPA
-        Android -> APK (file HC Custom demo lag lòi kèn https://drive.google.com/drive/folders/1ercbfU7xaza8rWUiIjuRGa3UkR1V_qOw)
+        Android -> APK 
         Windows -> EXE
         macOS -> Darwin
         Linux/Termux -> arm
 ```
 # KH đang xài hack Termux 1 luồng tự so sánh, tải app OOKLA SpeedTest ko lên nổi 10Mbps
+(file HC Custom demo lag lòi kèn https://drive.google.com/drive/folders/1ercbfU7xaza8rWUiIjuRGa3UkR1V_qOw)
+        Windows -> EXE
+        macOS -> Darwin
+        Linux/Termux -> arm
+
 ```
 Bước 2: nhập KEY bản quyền (liên hệ tác giả)
 Bước 3: cấu hình VPN (liên hệ tác giả)
