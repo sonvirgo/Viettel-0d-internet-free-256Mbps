@@ -10,6 +10,9 @@ https://github.com/sonvirgo/iOS-iPhone-4G-Viettel-0nen-0limit-256Mbps-hack-Psiph
 
 [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/Viettel-0-internet-free-32Mbps/total.svg)]()
 
+![Screenshot_20241112-090303](https://github.com/user-attachments/assets/b8a85280-8603-4e3e-be0a-d4396fc9f1bd)
+
+
 Hướng dẫn cho những người dùng ko biết cách cài app:
 
 ```
