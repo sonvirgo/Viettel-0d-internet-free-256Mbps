@@ -4,6 +4,9 @@
 
 App iOS iPhone chính chủ độc quyền TQ VVIP phát triền bởi 10% tinh hoa, dành cho 10% tinh hoa, có 1-0-2, chuyên nghiệp, độc đáo!!!
 
+"Tóc ngắn, cớ gì em tóc dài,
+Để cho em giống như bao nhiêu người"
+
 [![Everything Is AWESOME](https://img.youtube.com/vi/JdcoDcOBtCI/0.jpg)](https://www.youtube.com/watch?v=JdcoDcOBtCI "Everything Is AWESOME")
 
 https://github.com/sonvirgo/iOS-iPhone-4G-Viettel-0nen-0limit-256Mbps-hack-Psiphon/releases/tag/v1.0.2
