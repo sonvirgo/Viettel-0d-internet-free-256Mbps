@@ -28,9 +28,7 @@ Bước 1: tải và cài file tương ứng với thiết bị, link tải ở 
 ```
 # KH đang xài hack Termux 1 luồng tự so sánh, tải app OOKLA SpeedTest ko lên nổi 10Mbps
 (file HC Custom demo lag lòi kèn https://drive.google.com/drive/folders/1ercbfU7xaza8rWUiIjuRGa3UkR1V_qOw)
-        Windows -> EXE
-        macOS -> Darwin
-        Linux/Termux -> arm
+     
 
 ```
 Bước 2: nhập KEY bản quyền (liên hệ tác giả)
