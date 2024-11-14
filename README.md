@@ -20,8 +20,8 @@ Hướng dẫn cho những người dùng ko biết cách cài app:
 
 ```
 Bước 1: tải và cài file tương ứng với thiết bị, link tải ở trên
-        Flag-Ship iOS -> IPA (DEMO lag lag lag tải app NapsternetV từ Apple Store, dùng file config như link dưới)
-        Android -> APK (DEMO lag ag lag tải app HTTP Custom từ Google Play Store, dùng file config như link dưới)
+        Flag-Ship iOS -> IPA (DEMO lag lag lag tải app NapsternetV từ Apple Store, dùng file config .inpv link dưới)
+        Android -> APK (DEMO lag ag lag tải app HTTP Custom từ Google Play Store, dùng file config như .hc link dưới)
         Windows -> EXE
         macOS -> Darwin
         Linux/Termux -> arm
