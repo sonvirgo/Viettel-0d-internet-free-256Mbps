@@ -20,14 +20,14 @@ Hướng dẫn cho những người dùng ko biết cách cài app:
 
 ```
 Bước 1: tải và cài file tương ứng với thiết bị, link tải ở trên
-        Flag-Ship iOS -> IPA (DEMO lag lag lag tải app NapsternetV từ Apple Store, dùng file config .inpv link dưới)
-        Android -> APK (DEMO lag ag lag tải app HTTP Custom từ Google Play Store, dùng file config như .hc link dưới)
+        Flag-Ship iOS -> IPA 
+        Android -> APK 
         Windows -> EXE
         macOS -> Darwin
         Linux/Termux -> arm
-(file HTTP Custom + NapsternetV demo lag lòi kèn https://drive.google.com/drive/folders/1ercbfU7xaza8rWUiIjuRGa3UkR1V_qOw)
+
 ```
-# KH đang xài hack Termux 1 luồng tự so sánh, tải app OOKLA SpeedTest ko lên nổi 10Mbps
+# KH đang xài hack  1 luồng tự so sánh, tải app OOKLA SpeedTest ko lên nổi 10Mbps
    
 
 ```
