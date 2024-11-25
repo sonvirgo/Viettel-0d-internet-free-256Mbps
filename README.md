@@ -57,6 +57,8 @@ HẾT
 
 Nguyền lý ghép luồng mạng ICT cho súc vật ngu lâu khó đào tạo
 
+https://netviettel.vn/shop/goi-f180-da-phien-da-diem-cho-mmo/
+
 https://www.facebook.com/groups/mikrotik.academy.vietnam/posts/1792954234470688/
 
 (repo upload lại sau khị bị github staffs disable do bóc phốt tml thuan567, súc vật  voz mod Floren kkk😅)
