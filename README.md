@@ -52,7 +52,12 @@ MN trước khi mua Hack nên tìm hiểu, khỏi mang tiếng NGU
 HẾT
 ```
 
+
 90% cặn bã XH gocmod, voz, ĐHCN HN ... -> cút 😂
+Nguyền lý ghép luồng mạng ICT cho súc vật ngu lâu khó đào tạo
+
+https://www.facebook.com/groups/mikrotik.academy.vietnam/posts/1792954234470688/
+
 (repo upload lại sau khị bị github staffs disable do bóc phốt tml thuan567, súc vật  voz mod Floren kkk😅)
 
 File IPA iOS iPhone KH tự cài. Chỉ LH chính chủ 0387554874 để mua KEY.
