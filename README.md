@@ -3,8 +3,6 @@
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/k9EUJzFUyls/0.jpg)](https://www.youtube.com/watch?v=k9EUJzFUyls "Everything Is AWESOME")
 
-https://youtu.be/k9EUJzFUyls?si=_jlQbUc1vbmBL7k1
-
 # Tên app trên tất cả các nền tảng iOS Android Windows macOS Linux Termux/Android:  [TunnelsMux](https://www.google.com/search?q=tunnelsmux) 
 ![image](https://github.com/user-attachments/assets/f595307e-8bd0-462e-bf34-8fc21a707e7c)
 
