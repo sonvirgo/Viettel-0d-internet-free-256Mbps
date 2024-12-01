@@ -22,6 +22,7 @@ https://github.com/sonvirgo/iOS-iPhone-4G-Viettel-0nen-0limit-256Mbps-hack-Psiph
 
 ![Screenshot_20241112-090303](https://github.com/user-attachments/assets/b8a85280-8603-4e3e-be0a-d4396fc9f1bd)
 
+# Thông báo, kể từ 1/12/2024 app TunnelsMux chỉ phát hành số luồng nguyên tố 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89 .. để phân biệt với cặn bã XH termux kkkkk 
 
 Hướng dẫn cho những người dùng ko biết cách cài app:
 
