@@ -4,7 +4,7 @@
 https://github.com/user-attachments/assets/d77a21c3-9791-48da-95cf-a575bbe07694
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/qi2XWpVRHno/0.jpg)](https://www.youtube.com/watch?v=GgKQ7EOcZ6M "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/GgKQ7EOcZ6M/0.jpg)](https://www.youtube.com/watch?v=GgKQ7EOcZ6M "Everything Is AWESOME")
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/k9EUJzFUyls/0.jpg)](https://www.youtube.com/watch?v=h6_6pVEw0-c "Everything Is AWESOME")
 
