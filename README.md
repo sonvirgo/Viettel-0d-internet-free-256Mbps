@@ -3,8 +3,13 @@
 
 https://github.com/user-attachments/assets/d77a21c3-9791-48da-95cf-a575bbe07694
 
+TunnelsMux 7 luồng đập chết ăn thịt 1 luồng 
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/FerVP7IzWxc/0.jpg)](https://www.youtube.com/watch?v=FerVP7IzWxc "Everything Is AWESOME")
+
+TunnelsMux 64 luồng đập chết 100 luồng termux
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/5OzS1YZc4sc/0.jpg)](https://www.youtube.com/watch?v=5OzS1YZc4sc "Everything Is AWESOME")
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/k9EUJzFUyls/0.jpg)](https://www.youtube.com/watch?v=h6_6pVEw0-c "Everything Is AWESOME")
 
