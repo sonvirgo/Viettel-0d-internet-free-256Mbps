@@ -8,6 +8,7 @@ Công nghệ siêu nhất Việt Nam, nhất Thế giới.
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/NbGP85obCEY/0.jpg)](https://www.youtube.com/watch?v=NbGP85obCEY "Everything Is AWESOME")
 
+Quét SNI tất cả các nhà mạng, các loại gói.
 [![Everything Is AWESOME](https://img.youtube.com/vi/mu7fgzQ3EHo/0.jpg)](https://www.youtube.com/watch?v=mu7fgzQ3EHo "Everything Is AWESOME")
 
 
