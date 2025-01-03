@@ -3,6 +3,9 @@
 
 https://github.com/user-attachments/assets/d77a21c3-9791-48da-95cf-a575bbe07694
 
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/NbGP85obCEY/0.jpg)](https://www.youtube.com/watch?v=NbGP85obCEY "Everything Is AWESOME")
+
 [![Everything Is AWESOME](https://img.youtube.com/vi/mu7fgzQ3EHo/0.jpg)](https://www.youtube.com/watch?v=mu7fgzQ3EHo "Everything Is AWESOME")
 
 
